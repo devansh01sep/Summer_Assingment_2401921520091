@@ -1,6 +1,6 @@
 package Week_3.Day_4;
 
-import java.util.ArrayDeque;
+import java.util.ArrayDeque; 
 import java.util.Deque;
 
 public class DailyTemperature {
@@ -21,6 +21,6 @@ public class DailyTemperature {
             stack.push(new int[]{temp, i});
         }
 
-        return result;
+        return result ;
     }
 }
