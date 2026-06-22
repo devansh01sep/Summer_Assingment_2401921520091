@@ -1,6 +1,5 @@
-package Week_3.Day
+package Week_3.Day_4;
 
--4;
 import java.util.Stack;
 
 public class LargestRectangleinHistogram {
